@@ -1,2 +1,2 @@
 # my_program
-my program
+プログラムを記録します。
